@@ -1,0 +1,13 @@
+<html>
+  <head>
+Example
+       <title>Example</title>
+    </head>
+<body>
+       <?php 
+       $x="Bob";
+       $x="Joe";
+       echo "$x"; 
+       ?>
+    </body>
+  </html>
